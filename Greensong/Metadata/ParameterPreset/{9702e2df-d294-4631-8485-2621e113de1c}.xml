@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{9702e2df-d294-4631-8485-2621e113de1c}">
+		<property name="name">
+			<value>Toad Speaking</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c852a576-e826-4649-97f6-49a2fe44190d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3bfb7805-50bb-4b81-b1aa-6eaf0f2fdb09}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3bfb7805-50bb-4b81-b1aa-6eaf0f2fdb09}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.97000008821487427</value>
+		</property>
+	</object>
+</objects>

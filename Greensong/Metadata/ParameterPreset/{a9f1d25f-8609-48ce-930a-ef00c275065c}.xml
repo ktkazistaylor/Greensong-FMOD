@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{a9f1d25f-8609-48ce-930a-ef00c275065c}">
+		<property name="name">
+			<value>Frog Speaking</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c852a576-e826-4649-97f6-49a2fe44190d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fefc40cc-3bc7-477f-b523-e772afb135b5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fefc40cc-3bc7-477f-b523-e772afb135b5}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.94000005722045898</value>
+		</property>
+	</object>
+</objects>

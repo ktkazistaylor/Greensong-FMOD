@@ -381,7 +381,7 @@
 			<value>84.083320628834343</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{652e31d2-bcd6-43ef-9c8e-6e5a0fd32ac5}</destination>
+			<destination>{9d0aefb8-0158-41d3-8333-6edbe8e8c7a0}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{db4a350f-6af4-4cf2-9ae7-0b908b1f3774}">
@@ -430,7 +430,7 @@
 			<value>77.894750000000002</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{26dc072a-4f40-4451-adff-bb2e6f74d22d}</destination>
+			<destination>{faae3f12-094c-4879-921c-29ca3bcee9fa}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{2832f109-69fd-4509-b5c8-9a9738663fd8}">
@@ -479,7 +479,7 @@
 			<value>77.894750000000002</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{53d665a8-45eb-4516-a488-614222092106}</destination>
+			<destination>{67566c1b-0232-4d1e-b496-628810cc9370}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{924c8e8a-ef85-4bb6-a8ab-f77b6604019e}">
@@ -520,7 +520,7 @@
 			<value>77.894750000000002</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{483450b5-b975-4c23-8fa1-0671d47afeb3}</destination>
+			<destination>{902a8aba-b0e1-484b-891e-521bc7dd623d}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{c2f1d06a-a6e7-4ab7-bd2e-7f412a6c0f83}">
@@ -541,7 +541,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{e4c30e69-f236-48cc-b84d-04e67532e863}">
 		<property name="volume">
-			<value>-2</value>
+			<value>-7.5</value>
 		</property>
 		<property name="name">
 			<value>Layer 0</value>
@@ -1052,7 +1052,7 @@
 			<value>0.94000000000000006</value>
 		</property>
 		<property name="value">
-			<value>10</value>
+			<value>-7</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{eb943b5e-535a-420f-8e0f-8baecac24a0c}">
@@ -1068,7 +1068,7 @@
 			<value>0.90000000000000002</value>
 		</property>
 		<property name="value">
-			<value>10</value>
+			<value>-5</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{b444da60-9cf6-4e81-a840-843887ec1727}">
@@ -1081,10 +1081,10 @@
 	</object>
 	<object class="AutomationPoint" id="{12c291a4-a3fe-4af9-8dec-73ef4380ef36}">
 		<property name="position">
-			<value>0.91717791411042948</value>
+			<value>0.94000000000000006</value>
 		</property>
 		<property name="value">
-			<value>10</value>
+			<value>-16</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{d92aeee8-74cb-44e9-a602-5de4612143f7}">

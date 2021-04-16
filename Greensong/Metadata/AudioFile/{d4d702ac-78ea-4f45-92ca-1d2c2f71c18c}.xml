@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="AudioFile" id="{d4d702ac-78ea-4f45-92ca-1d2c2f71c18c}">
 		<property name="assetPath">
-			<value>cymbal.mp3</value>
+			<value>4.15.21/cymbal.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

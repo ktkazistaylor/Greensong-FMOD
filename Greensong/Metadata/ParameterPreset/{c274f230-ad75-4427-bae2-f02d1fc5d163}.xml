@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{c274f230-ad75-4427-bae2-f02d1fc5d163}">
+		<property name="name">
+			<value>Fox Theme</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c852a576-e826-4649-97f6-49a2fe44190d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c88f015c-14f0-4617-b57c-db1eaf638d80}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c88f015c-14f0-4617-b57c-db1eaf638d80}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>0.23000001907348633</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>

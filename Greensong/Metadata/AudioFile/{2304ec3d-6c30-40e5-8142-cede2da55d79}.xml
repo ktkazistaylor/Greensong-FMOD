@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2304ec3d-6c30-40e5-8142-cede2da55d79}">
+		<property name="assetPath">
+			<value>4.30.21/fox_motif_5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.1181666666666672</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{15d305ae-51eb-42cb-8667-c98249389f95}</destination>
+		</relationship>
+	</object>
+</objects>

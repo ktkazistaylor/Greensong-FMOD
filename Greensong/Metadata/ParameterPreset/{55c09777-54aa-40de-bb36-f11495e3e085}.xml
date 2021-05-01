@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{55c09777-54aa-40de-bb36-f11495e3e085}">
+		<property name="name">
+			<value>Baby Bird speaking</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c852a576-e826-4649-97f6-49a2fe44190d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3ef151c5-50e5-433b-8c75-9c4727783b62}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3ef151c5-50e5-433b-8c75-9c4727783b62}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

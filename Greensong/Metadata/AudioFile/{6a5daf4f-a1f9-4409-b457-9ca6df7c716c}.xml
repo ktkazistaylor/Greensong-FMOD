@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{6a5daf4f-a1f9-4409-b457-9ca6df7c716c}">
+		<property name="assetPath">
+			<value>5.1.21/spirit_loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>24.210541666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{15d305ae-51eb-42cb-8667-c98249389f95}</destination>
+		</relationship>
+	</object>
+</objects>

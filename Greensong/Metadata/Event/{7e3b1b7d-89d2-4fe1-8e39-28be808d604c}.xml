@@ -783,7 +783,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>16000</value>
+			<value>7200</value>
 		</property>
 		<property name="looping">
 			<value>true</value>

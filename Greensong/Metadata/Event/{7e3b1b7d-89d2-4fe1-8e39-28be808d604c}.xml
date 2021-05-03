@@ -783,7 +783,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>7200</value>
+			<value>5000</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -1502,7 +1502,7 @@
 	<object class="MixerBusPanner" id="{fc753a80-43ab-41e7-bc93-7f56d1ff075d}" />
 	<object class="ParameterCondition" id="{b37fcd20-6da4-4046-831d-3bff0d68f379}">
 		<property name="minimum">
-			<value>0.6950000524520874</value>
+			<value>0.12500001490116119</value>
 		</property>
 		<property name="maximum">
 			<value>1</value>

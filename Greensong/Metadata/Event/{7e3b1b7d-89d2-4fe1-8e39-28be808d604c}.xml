@@ -381,9 +381,6 @@
 		<property name="length">
 			<value>75.789479166666666</value>
 		</property>
-		<property name="quantizationInterval">
-			<value>3</value>
-		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -438,7 +435,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -503,7 +500,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -739,11 +736,14 @@
 	</object>
 	<object class="EventMixerGroup" id="{e4c30e69-f236-48cc-b84d-04e67532e863}">
 		<property name="volume">
-			<value>-6.5</value>
+			<value>-15</value>
 		</property>
 		<property name="name">
 			<value>Layer 0</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{4b748ef2-d0d4-4751-af29-ca134e57ee52}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{6fdb7563-351c-4adc-8fe3-65f6e1e8d75e}</destination>
 		</relationship>
@@ -830,7 +830,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>53</value>
+			<value>38.5</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -868,7 +868,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>53.5</value>
+			<value>38</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -909,7 +909,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>48.5</value>
+			<value>38</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -950,7 +950,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>56</value>
+			<value>37.5</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -1029,7 +1029,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -1091,7 +1091,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -1153,7 +1153,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -1493,6 +1493,23 @@
 		<relationship name="endPoint">
 			<destination>{f6f641f1-6504-4b9e-816c-c9ac0d306dac}</destination>
 		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{4b748ef2-d0d4-4751-af29-ca134e57ee52}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>3600</value>
+		</property>
+		<property name="releaseTime">
+			<value>4230.77002</value>
+		</property>
+		<property name="finalValue">
+			<value>-72.2962952</value>
+		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{6fdb7563-351c-4adc-8fe3-65f6e1e8d75e}">
 		<relationship name="effects">

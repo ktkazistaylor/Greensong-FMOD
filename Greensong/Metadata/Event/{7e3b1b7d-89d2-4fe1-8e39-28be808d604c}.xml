@@ -382,7 +382,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>2</value>
+			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>

@@ -156,7 +156,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{2f5e5e9b-f4d3-42d5-833b-624de8d326dc}">
 		<property name="stereoPan">
-			<value>36</value>
+			<value>48</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{8b6605ef-2a13-4a93-b6bd-c55452c6c3e4}" />

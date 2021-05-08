@@ -328,7 +328,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{88185f36-54c9-4893-91e2-fb190201967a}">
 		<property name="volume">
-			<value>2.5</value>
+			<value>2</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{d99bb313-041e-4fe8-b986-4ccffae012fa}</destination>
@@ -383,6 +383,9 @@
 		</property>
 		<property name="length">
 			<value>75.789479166666666</value>
+		</property>
+		<property name="startOffset">
+			<value>4</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -562,7 +565,7 @@
 			<value>75.789479166666666</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{98232f34-7f3a-4244-bfbf-8d55a825e1fa}</destination>
+			<destination>{973b31e6-7285-4492-afec-3aabafed5196}</destination>
 		</relationship>
 	</object>
 	<object class="TransitionSourceSound" id="{db4a350f-6af4-4cf2-9ae7-0b908b1f3774}">
@@ -833,7 +836,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>38.5</value>
+			<value>35.5</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -912,7 +915,7 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>38</value>
+			<value>33</value>
 		</property>
 		<property name="isAsync">
 			<value>true</value>
@@ -991,7 +994,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{d14f3ea7-8868-488f-9913-522e57e6415a}">
 		<property name="volume">
-			<value>-15</value>
+			<value>-13</value>
 		</property>
 		<property name="name">
 			<value>Fox Motifs</value>

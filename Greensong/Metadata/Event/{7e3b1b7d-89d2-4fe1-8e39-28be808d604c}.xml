@@ -1247,9 +1247,6 @@
 		<property name="length">
 			<value>75.789479166666666</value>
 		</property>
-		<property name="quantizationInterval">
-			<value>2</value>
-		</property>
 		<relationship name="timeline">
 			<destination>{ed3adfed-046e-461d-8cc7-c79873f93d96}</destination>
 		</relationship>

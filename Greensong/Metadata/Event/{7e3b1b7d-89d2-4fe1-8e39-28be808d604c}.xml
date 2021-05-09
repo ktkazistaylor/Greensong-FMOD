@@ -440,9 +440,6 @@
 		<property name="length">
 			<value>75.789479166666666</value>
 		</property>
-		<property name="quantizationInterval">
-			<value>3</value>
-		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -504,9 +501,6 @@
 		</property>
 		<property name="length">
 			<value>75.789479166666666</value>
-		</property>
-		<property name="quantizationInterval">
-			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -1034,9 +1028,6 @@
 		<property name="length">
 			<value>75.789479166666666</value>
 		</property>
-		<property name="quantizationInterval">
-			<value>3</value>
-		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -1096,9 +1087,6 @@
 		<property name="length">
 			<value>75.789479166666666</value>
 		</property>
-		<property name="quantizationInterval">
-			<value>3</value>
-		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -1157,9 +1145,6 @@
 		</property>
 		<property name="length">
 			<value>75.789479166666666</value>
-		</property>
-		<property name="quantizationInterval">
-			<value>3</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
